@@ -1,5 +1,5 @@
-# Email Bulletproof CTA Button
+# Email Code Library
 
-Description: This is a sample bulletproof cta snippet that is meant to use in Salesforce Marketing Cloud emails.
+Description: This is a repository for Salesforce Marketing Cloud email code snippets.
 
 Contributed by Nolan Maratas | nolan.maratas@gmail.com
